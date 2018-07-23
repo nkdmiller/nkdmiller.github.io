@@ -10,12 +10,12 @@ For my CLI project, I decided to do something a little bit different. I wanted t
 
 XML stands for eXtensible Markup Language and is used as a container for data. It is not a programming language and is a lot like HTML. At first glance you would probably think it is HTML. It is very readable to humans and computers if formatted correctly. For more information on XML visit this link:
 
-[](https://www.w3schools.com/xml/default.asp)
+https://www.w3schools.com/xml/default.asp
 
 
 Nokogiri has the power to scrape XML. So far in the course we have used this awesome gem to scrape HTML. Scraping XML is similar but has very different syntax. The process of adding, scraping and removing XML took up the bulk of my time with this project. Luckily, a very knowledgeable github user put together this list of Nokogiri's XML syntax:
 
-[](https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet)
+https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet
 
 Despite those initial frustrations my CLI app which I call "Stock Report" was a great learning experience and a good start to my professional portfolio. 
 
